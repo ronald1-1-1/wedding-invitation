@@ -1,0 +1,124 @@
+h1 {
+    font-family: "Comforter", cursive;
+    font-weight: 400;
+    font-style: normal;
+    
+    color: #713E20;
+    
+    font-size: 60px;
+    margin: 20px 0 0 50px;
+}
+
+.frame .text {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 30px;
+    
+    margin: 20px 0 0 50px;
+    
+    word-wrap: break-word;
+}
+
+.container {
+    
+    
+    width: 100%;
+
+    margin: 0;
+}
+
+
+section {
+    width: 100vw;
+}
+
+.section-inner {
+    max-width: 960px;
+    margin: auto;
+    padding: 40px 20px;
+    
+    display: flex;
+    flex-direction: column;
+}
+section p {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 25px;
+    
+    color: #212020;
+}
+
+section li {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 30px;
+    margin: 20px;
+}
+
+.mh {
+    display: flex;
+    flex-direction: row;
+    
+    align-items: center;
+    
+}
+
+.mh img{
+    height: 100px;
+    margin-right: 20px;
+}
+
+.h2 {
+    font-family: "Comforter", cursive;
+    font-weight: 400;
+    font-style: normal;
+    
+    vertical-align: middle;
+    
+    color: #194b13;
+    
+    font-size: 60px;
+}
+.google-form-button {
+    margin-top: 40px; 
+    text-align: center;
+    display: inline-block;
+    background: #8ea9aa;
+    color: #eaeaea;
+    text-decoration: none;
+    font-weight: 500;
+    padding: 12px 24px;
+    border-radius: 8px;
+    transition: background 0.3s ease;
+    
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-size: 40px;
+    
+    width: 60%;
+    
+    align-self: center;
+}
+.google-form-button:hover {
+    background: #194b13;
+}
+footer {
+    font-family: "Montserrat", sans-serif;
+    margin: 60px 0 30px;
+    text-align: center;
+    font-size: 0.9rem;
+    color: #8b7e73;
+}
+
+@media (max-width: 1200px) { 
+    
+    
+    
+}
