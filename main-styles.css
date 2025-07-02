@@ -137,3 +137,28 @@ footer {
         font-size: 30px;   
     }
 }
+
+
+@media (max-width: 900px) { 
+    
+    section p {
+        font-size: 15px;
+    }
+    
+    section li {
+        font-size: 15px;
+    }
+    
+    .h2 {
+        font-size: 35px   
+    }
+    
+    .google-form-button {
+        font-size: 15px;   
+    }
+    
+    .mh img{
+        height: 60px;
+        margin-right: 20px;
+    }
+}
