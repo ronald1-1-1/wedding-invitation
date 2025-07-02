@@ -42,6 +42,7 @@ section {
     display: flex;
     flex-direction: column;
 }
+
 section p {
     font-family: "Montserrat", sans-serif;
     font-optical-sizing: auto;
@@ -57,7 +58,7 @@ section li {
     font-optical-sizing: auto;
     font-weight: 400;
     font-style: normal;
-    font-size: 30px;
+    font-size: 25px;
     margin: 20px;
 }
 
@@ -85,6 +86,7 @@ section li {
     
     font-size: 60px;
 }
+
 .google-form-button {
     margin-top: 40px; 
     text-align: center;
@@ -119,6 +121,19 @@ footer {
 
 @media (max-width: 1200px) { 
     
+    section p {
+        font-size: 20px;
+    }
     
+    section li {
+        font-size: 20px;
+    }
     
+    .h2 {
+        font-size: 50px   
+    }
+    
+    .google-form-button {
+        font-size: 30px;   
+    }
 }

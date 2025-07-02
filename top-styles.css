@@ -180,7 +180,7 @@ body {
     .top-frame .top-container
     {
         flex-direction: column-reverse;    
-        color: #b0a16b;
+        color: #fff;
     }
     
     .big-header {
@@ -197,8 +197,9 @@ body {
     .date { 
         margin-top: 20px; 
         font-size: 40px;   
+        font-weight: 500;
         
-        color: #b0a16b;
+        color: #fff;
     }
     
     .top-frame .we-image {
