@@ -87,6 +87,23 @@ section li {
     font-size: 60px;
 }
 
+.h3 {
+    font-family: "Comforter", cursive;
+    font-weight: 400;
+    font-style: normal;
+    
+    vertical-align: middle;
+    
+    color: #713E20;
+    
+    font-size: 40px;
+}
+
+#instruction {
+    width: 40%;
+    align-self: center;
+}
+
 .google-form-button {
     margin-top: 40px; 
     text-align: center;
